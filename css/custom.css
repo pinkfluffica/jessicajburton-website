@@ -1,0 +1,27 @@
+/*# sourceMappingURL=bootstrap.css.map */
+
+/*Extra styling pour moi */
+
+.purple {
+  color: #2716A1
+}
+
+.dark-bg {
+  background-color: #333
+}
+
+li {
+  list-style: none;
+  margin: 5px;
+}
+.img-project {
+
+}
+
+.bg-info {
+  padding: 5px;
+}
+
+/*.label {
+  display: inline-block;
+}*/
