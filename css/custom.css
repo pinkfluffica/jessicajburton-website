@@ -14,26 +14,18 @@ li {
   list-style: none;
   margin: 5px;
 }
-.img-project {
-
-}
 
 .bg-info {
   padding: 5px;
 }
 
-/*footer {
-  text-align: center;
-}*/
-
 footer p {
   display: inline-block;
-  margin-left: 5px;
-  margin-right: 5px;
-
+  margin-left: 3px;
+  margin-right: 3px;
 }
 
-.icon{
+.icon {
   width: 26px;
   height: 19px;
   margin: 20px;
@@ -43,4 +35,8 @@ footer p {
   font-size: inherit;
   display: inline-block;
   margin: 3px;
+}
+
+.img-margin {
+  margin-bottom: 10px;
 }
