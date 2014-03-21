@@ -25,6 +25,11 @@ footer p {
   margin-right: 3px;
 }
 
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
 .icon {
   width: 26px;
   height: 19px;
