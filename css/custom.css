@@ -45,3 +45,11 @@ a {
 .img-margin {
   margin-bottom: 10px;
 }
+
+/*.img-project {
+  max-width: 400px;
+}*/
+
+.inlineblock {
+  display: inline-block;
+}
