@@ -2,6 +2,10 @@
 
 /*Extra styling pour moi */
 
+h2 {
+  margin-bottom: 20px;
+}
+
 .purple {
   color: #2716A1
 }
@@ -52,4 +56,8 @@ a {
 
 .inlineblock {
   display: inline-block;
+}
+
+.unmartop {
+  margin-top: 0;
 }
