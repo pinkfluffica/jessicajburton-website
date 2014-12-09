@@ -50,6 +50,11 @@ a {
   margin-bottom: 10px;
 }
 
+.margins-24 {
+  margin-top: 24%;
+  margin-bottom: 24%;
+}
+
 /*.img-project {
   max-width: 400px;
 }*/
