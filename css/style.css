@@ -1,0 +1,46 @@
+/*Jessica J Burton's Website Styles*/
+
+*, *:after, *:before {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Avenir, sans-serif;
+    margin: 0;
+}
+
+.hire-me {
+    position: absolute;
+    right:8px;
+    top:8px;
+    color: #ff0066;
+    font-size: 32px;
+    background-color: black;
+    padding: 8px;
+    z-index: 2;
+}
+
+.header-image {
+    opacity: 0.8;
+    width:100%;
+    height: 100%;
+    /*overflow:hidden;*/
+    background-image: url(../images/codeBanner.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    z-index: -1;
+    text-align: center;
+}
+
+.header-image h1 {
+    color: #66ff00;
+    z-index: 2;
+    background-color: black;
+    padding: 8px 12px 8px 12px;
+    display: inline-block;
+    margin-top: 90px;
+}
+
