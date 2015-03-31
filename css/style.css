@@ -8,6 +8,7 @@
 
 body {
     font-family: Avenir, sans-serif;
+    font-weight: 700;
     margin: 0;
 }
 
@@ -42,5 +43,37 @@ body {
     padding: 8px 12px 8px 12px;
     display: inline-block;
     margin-top: 90px;
+}
+
+.wrapper {
+    width: 40%;
+    text-align: center;
+    margin: 0 auto;
+}
+
+p {
+    background-color: black;
+    padding: 10px;
+    color: white;
+    margin: 0;
+    /*display: inline-block;*/
+    margin-left: auto;
+    margin-right: auto;
+}
+
+ul {
+    margin: 0;
+    background-color: black;
+    color: white;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: left;
+    /*display: inline-block;*/
+}
+
+li {
+    /*list-style: none;*/
+    margin: 0 0 0 30%;
+    
 }
 
